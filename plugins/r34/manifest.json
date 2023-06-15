@@ -1,0 +1,14 @@
+{
+    "name": "rule34plugin",
+    "description": "Get a rule34 post from reddit.",
+    "authors": [
+        {
+            "name": "honey",
+            "id": "861880045513605150"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_reaction_smile"
+    }
+}
