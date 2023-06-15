@@ -32,7 +32,7 @@ let commands = []
 commands.push(registerCommand({
     name: "rule34",
     displayName: "rule34",
-    description: "Get an rule34 image"
+    description: "Get an rule34 image",
     displayDescription: "Get a rule34 image",
     options: [{
         name: "nsfw",
